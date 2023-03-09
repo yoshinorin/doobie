@@ -1,4 +1,5 @@
 import FreeGen2._
+import com.github.sbt.git.SbtGit.git
 import sbt.dsl.LinterLevel.Ignore
 
 // Library versions all in one place, for convenience and sanity.
